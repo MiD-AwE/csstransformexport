@@ -20,7 +20,7 @@ Currently only browsers based on Webkit are fully supported (i.e. Safari, Mobile
 
 ## Which versions of blender are supported?
 
-Currently only Blender 2.49 is supported.
+Currently Blender 2.6 is supported.
 
 [1]: http://www.blender.org/
 [2]: http://webkit.org/blog/130/css-transforms/
